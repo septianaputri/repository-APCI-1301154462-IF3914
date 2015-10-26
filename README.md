@@ -7,8 +7,8 @@ Begin
 
  <="" span="" 13.3333px;"="">ClrScr;
 
-<="" span="">Writeln(‘Hello World’); //untuk mengeluarkan 
+<="" span="">Writeln(‘Hello World’) 
 
-string ‘Hello World’ di layar 
+string ‘Hello World'
 
 End.
